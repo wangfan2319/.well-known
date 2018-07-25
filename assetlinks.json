@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "org.wangfan.instantapp",
+    "package_name": "org.wangfan.instantapp.app",
     "sha256_cert_fingerprints":
-    ["E2:CC:25:F2:FB:51:6C:70:AA:AD:D8:AF:F8:27:A1:A5:47:66:C6:23:7C:B7:3D:FB:5C:D2:54:9B:A3:E7:D2:51"]
+    ["06:E9:62:0F:72:46:82:9E:B1:85:F9:DB:A0:A8:E1:3C:4E:2B:99:CA:F5:12:8A:F7:B6:82:90:FD:F5:75:A9:C1"]
   }
 }]
